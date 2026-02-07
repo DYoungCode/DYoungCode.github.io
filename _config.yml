@@ -1,5 +1,5 @@
 title: AI Security Blog
 description: AppSec & Cloud Security
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 plugins: 
   - jekyll-seo-tag
